@@ -38,8 +38,6 @@
   .recipe-content {
     padding: 10px;
   }
-  
-  /* Media queries for responsive design */
   @media (max-width: 992px) {
     .recipe-box {
       width: 45%;
